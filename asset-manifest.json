@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.c85268ee.css",
-    "main.js": "/react-gh-pages/static/js/main.b9905242.js",
-    "static/js/787.80cd1330.chunk.js": "/react-gh-pages/static/js/787.80cd1330.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.c85268ee.css.map": "/react-gh-pages/static/css/main.c85268ee.css.map",
-    "main.b9905242.js.map": "/react-gh-pages/static/js/main.b9905242.js.map",
-    "787.80cd1330.chunk.js.map": "/react-gh-pages/static/js/787.80cd1330.chunk.js.map"
+    "main.css": "/tenzies/static/css/main.c85268ee.css",
+    "main.js": "/tenzies/static/js/main.565362b0.js",
+    "static/js/787.80cd1330.chunk.js": "/tenzies/static/js/787.80cd1330.chunk.js",
+    "index.html": "/tenzies/index.html",
+    "main.c85268ee.css.map": "/tenzies/static/css/main.c85268ee.css.map",
+    "main.565362b0.js.map": "/tenzies/static/js/main.565362b0.js.map",
+    "787.80cd1330.chunk.js.map": "/tenzies/static/js/787.80cd1330.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c85268ee.css",
-    "static/js/main.b9905242.js"
+    "static/js/main.565362b0.js"
   ]
 }
